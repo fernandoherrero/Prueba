@@ -6,6 +6,8 @@ Repositorio de **prueba**
 - *bar*
 - baz
 
+1. foo
+2. bar
 
 ```cs
 public void foo() {
