@@ -1,4 +1,3 @@
-Prueba
-======
+# Prueba
 
 Repositorio de prueba
